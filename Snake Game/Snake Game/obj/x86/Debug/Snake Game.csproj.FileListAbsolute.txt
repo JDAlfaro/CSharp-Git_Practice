@@ -1,0 +1,9 @@
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Snake Game\Snake Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Snake Game\Snake Game\obj\x86\Debug\Snake_Game.Form1.resources
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Snake Game\Snake Game\obj\x86\Debug\Snake_Game.Properties.Resources.resources
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Snake Game\Snake Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Snake Game\Snake Game\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Snake Game\Snake Game\bin\Debug\Snake Game.exe
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Snake Game\Snake Game\bin\Debug\Snake Game.pdb
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Snake Game\Snake Game\obj\x86\Debug\Snake Game.exe
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Snake Game\Snake Game\obj\x86\Debug\Snake Game.pdb
