@@ -1,0 +1,11 @@
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Click Game\Click Game\bin\Debug\Click Game.exe
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Click Game\Click Game\bin\Debug\Click Game.pdb
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Click Game\Click Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Click Game\Click Game\obj\x86\Debug\Click_Game.Form1.resources
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Click Game\Click Game\obj\x86\Debug\Click_Game.Properties.Resources.resources
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Click Game\Click Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Click Game\Click Game\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Click Game\Click Game\obj\x86\Debug\Click Game.exe
+C:\Users\c\Documents\Visual Studio 2010\Projects\CSharp-Git_Practice\Click Game\Click Game\obj\x86\Debug\Click Game.pdb
+C:\Users\c\Documents\Visual Studio 2010\Projects\C#-Git_Practice\Click Game\Click Game\obj\x86\Debug\Click Game.exe
+C:\Users\c\Documents\Visual Studio 2010\Projects\C#-Git_Practice\Click Game\Click Game\obj\x86\Debug\Click Game.pdb
