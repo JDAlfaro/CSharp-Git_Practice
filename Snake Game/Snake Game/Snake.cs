@@ -1,6 +1,11 @@
-﻿/*  Joshua David Alfaro
+﻿/* Name: Snake Game
+ * Author:Joshua David Alfaro
+ * 
+ * Desciption:
+ * Snake class for Snake Game
  * Followed tutorial by TutorialHouseNz on YouTube
 */
+
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -11,17 +16,28 @@ namespace Snake_Game
 {
     class Snake
     {
-        public Rectangle[] snakeRec;
+        // class variables
+        private Rectangle[] snakeRec;
         private SolidBrush brush;
         private int x, y, width, height;
 
+        // Read Only Property
+        public Rectangle[] SnakeRec
+        {
+            get
+            {
+                return snakeRec;
+            }
+        }
+
+        // Snake Constructor
         public Snake()
         {
             snakeRec = new Rectangle[3];
             brush = new SolidBrush(Color.Red);
 
             x = 20;
-            y = 0;
+            y = 150;
             width = 10;
             height = 10;
 
@@ -70,6 +86,13 @@ namespace Snake_Game
         {
             drawSnake();
             snakeRec[0].X = snakeRec[0].X - 10;
+        }
+
+        public void growSnake()
+        {
+            List<Rectangle> rec = snakeRec.ToList();
+            rec.Add(new Rectangle(snakeRec[snakeRec.Length - 1].X, snakeRec[snakeRec.Length -1].Y, width, height));
+            snakeRec = rec.ToArray();
         }
     }
 }
